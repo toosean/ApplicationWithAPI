@@ -2,5 +2,4 @@
 
 ## Free
 
-* [GitHub] - GitHub is where people build software.
- Document https://docs.github.com
+* [GitHub](https://github.com/toosean/ApplicationWithAPI/edit/main/README.md)[[Doc](https://docs.github.com)] - GitHub is where people build software.

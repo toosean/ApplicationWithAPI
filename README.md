@@ -2,5 +2,5 @@
 
 ## Free
 
-### GitHub
- Document https://docs.github.com/cn
+* [GitHub] - GitHub is where people build software.
+ Document https://docs.github.com
